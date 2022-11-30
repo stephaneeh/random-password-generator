@@ -1,6 +1,6 @@
 # Random Password Generator
 
-## Your Task
+## Description
 
 This application is allows a user to generate a ramdon password based on a variety of parameters, including the length of the password, and the types of characters to be included.
 
@@ -12,7 +12,7 @@ This application is allows a user to generate a ramdon password based on a varie
 
 ## Application
 
-Link to application can be found #TO BE UPDATED#
+Link to application can be found https://stephaneeh.github.io/random-password-generator/
 
 ## Screenshot of application
 

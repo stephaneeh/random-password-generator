@@ -16,5 +16,7 @@ Link to application can be found #TO BE UPDATED#
 
 ## Screenshot of application
 
+![Screenshot 2022-11-30 at 10 17 18 am](https://user-images.githubusercontent.com/28996399/204677002-779323e8-2632-4405-9f75-61cc7ec54a0b.png)
 
-
+## License
+[MIT](LICENSE)
